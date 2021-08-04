@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hing9u&theme=vue)
+
 <!--
 **hing9u/hing9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
