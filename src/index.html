@@ -40,19 +40,15 @@
             loop: false
         });
 
-        let header1 = "Hi there, I'm Mpho.";
-        let header2 = "I'm a Software Engineer.";
-        let header3 = " Technical Blogger.";
-        let header4 = " Maker.";
-        let header5 = "n ML/AI Enthusiast."
-        let header6 = "Check out my work below.";
+        let header1 = "Hi there, I'm Yeonhee.";
+        let header2 = "I'm currently learning Web.";
+        let header3 = " Algorithms."
+        let header4 = " interested in All Things Data.";
 
         let subHeader1 = "Nice to meet you.";
-        let subHeader2 = "Python, DevOps.";
-        let subHeader3 = "blog.mphomphego.co.za";
-        let subHeader4 = "IoT, Raspberry Pi, Arduino, MicroPython, ESP8266/ESP32.";
-        let subHeader5 = "OpenCV, PyTorch etc.";
-        let subHeader6 = "Follow me on Twitter: @mphomphego";
+        let subHeader2 = "HTML, CSS, and Javascript";
+        let subHeader3 = "using Python"
+        let subHeader4 = "Big Data, Machine Learning and Data Science";
 
         let typingSpeed = 20;
         let deleteSpeed = 1;
@@ -86,14 +82,14 @@
                 .pauseFor(pauseDelay)
                 .callFunction(function () { subdelete() })
                 .pauseFor(subHeader1.length * deleteSpeed)
-                .deleteChars(21)
+                .deleteChars(22)
 
                 .typeString(header2)
                 .callFunction(function () { subtyping(subHeader2) })
                 .pauseFor(pauseDelay)
                 .callFunction(function () { subdelete() })
                 .pauseFor(subHeader2.length * deleteSpeed)
-                .deleteChars(19)
+                .deleteChars(4)
 
                 .typeString(header3)
                 .callFunction(function () { subtyping(subHeader3) })
@@ -101,29 +97,15 @@
                 .callFunction(function () { subdelete() })
                 // .pauseFor(pauseDelay)
                 .pauseFor(subHeader3.length * deleteSpeed)
-                .deleteChars(18)
-
+                .deleteChars(31)
+                
                 .typeString(header4)
                 .callFunction(function () { subtyping(subHeader4) })
                 .pauseFor(pauseDelay)
                 .callFunction(function () { subdelete() })
+                // .pauseFor(pauseDelay)
                 .pauseFor(subHeader4.length * deleteSpeed)
-                .deleteChars(8)
-
-
-                .typeString(header5)
-                .callFunction(function () { subtyping(subHeader5) })
-                .pauseFor(pauseDelay)
-                .callFunction(function () { subdelete() })
-                .pauseFor(subHeader5.length * deleteSpeed)
-                .deleteAll(1)
-
-                .typeString(header6)
-                .callFunction(function () { subtyping(subHeader6) })
-                .pauseFor(pauseDelay)
-                .callFunction(function () { subdelete() })
-                .pauseFor(subHeader6.length * deleteSpeed)
-                .deleteAll(1)
+                .deleteChars(40)
 
                 .pauseFor(pauseDelay)
                 .start();
