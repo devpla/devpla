@@ -18,7 +18,17 @@
 
 [![Yeonhee's github activity graph](https://activity-graph.herokuapp.com/graph?username=hing9u&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align=center>
+**Techs that I've used at least once**
 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&color=20232A&labelColor=3776ab)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white&color=20232A&labelColor=276DC3)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=20232A&labelColor=E34F26)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=20232A&labelColor=1572B6)![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white&color=20232A&labelColor=F80000)![HiveQL](https://img.shields.io/badge/HiveQL-%2300f.svg?style=for-the-badge&logo=apachehive&logoColor=black&color=20232A&labelColor=FDEE21)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=20232A&labelColor=FF6F00)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=20232A&labelColor=EE4C2C)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&color=20232A&labelColor=F7931E)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=20232A&labelColor=150458)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&color=20232A&labelColor=013243)
+
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white&color=20232A&labelColor=FF0000)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=20232A&labelColor=3776ab)
+
+</div>
+    
 <!--
 **hing9u/hing9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
