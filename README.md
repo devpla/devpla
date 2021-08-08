@@ -21,7 +21,7 @@
 <br><br><br>
     
 <div align=center>
-    <b>Techs that I've used at least once</b>
+    <h3>Techs that I've used at least once</h3>
 <br>
     
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&color=20232A&labelColor=3776ab) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white&color=20232A&labelColor=276DC3) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=20232A&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=20232A&labelColor=1572B6) ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white&color=20232A&labelColor=F80000) ![HiveQL](https://img.shields.io/badge/HiveQL-%2300f.svg?style=for-the-badge&logo=apachehive&logoColor=black&color=20232A&labelColor=FDEE21)
