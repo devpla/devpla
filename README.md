@@ -5,18 +5,10 @@
 
 <br><br><br>
 
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=407 src="https://github-readme-stats.vercel.app/api?username=hing9u&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" />
-    </a>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="right" width=407 src="http://github-readme-streak-stats.herokuapp.com?user=hing9u&theme=react&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" alt="" />
-    </a>
-</div>
-
-<br><br><br><br><br><br><br><br><br>
-
-[![Yeonhee's github activity graph](https://activity-graph.herokuapp.com/graph?username=hing9u&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yeonhee's github readme stats](https://github-readme-stats.vercel.app/api?username=hing9u&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff)](https://github.com/anuraghazra/github-readme-stats") [![Yeonhee's github readme streak stats](http://github-readme-streak-stats.herokuapp.com?user=hing9u&theme=react&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats")
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Go to Source">
+<img src="https://activity-graph.herokuapp.com/graph?username=hing9u&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
+</a>
 
 <br><br><br>
     
