@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/hing9u/github-stats-transparent/46a70f6d34b172445822179efb97300b4eba5691/generated/overview.svg"
      alt="" />
-<img src="https://raw.githubusercontent.com/hing9u/github-stats-transparent/815ff99ce212997422562c0dee60cb4fc9955578/generated/languages.svg"
+<img src="https://raw.githubusercontent.com/hing9u/github-stats-transparent/c5706273c92db8f3a56c9c31d09c7b3b6377a1b5/generated/languages.svg"
      alt="" />
 <!--
 **hing9u/hing9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
