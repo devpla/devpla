@@ -17,7 +17,6 @@
 
 <br><br><br>
 
-![](https://github.com/hing9u/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/hing9u/github-stats-transparent/blob/output/generated/languages.svg)
 <!--
 **hing9u/hing9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
