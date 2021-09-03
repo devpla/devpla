@@ -14,10 +14,10 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=devpla&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
-
+<!-- 
 <br><br><br>
 
-![](https://github.com/hing9u/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/hing9u/github-stats-transparent/blob/output/generated/languages.svg) -->
 <!--
 **hing9u/hing9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
