@@ -11,10 +11,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=devpla&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
 </a>
 <a href="https://github.com/devpla/github-stats-transparent">
-  <img src="https://raw.githubusercontent.com/devpla/github-stats-transparent/output/generated/languages.svg" width=49.2% />
+ <img src="https://raw.githubusercontent.com/devpla/github-stats-transparent/3e9c144ec764b80e6291950d6d66029a38562817/generated/languages.svg" width=49.2% />
+<!--   <img src="https://raw.githubusercontent.com/devpla/github-stats-transparent/output/generated/languages.svg" width=49.2% /> -->
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=devpla&theme=react-dark&bg_color=20232a&hide_border=true&line=918FE0&color=9394C3" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=devpla&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
 
 
